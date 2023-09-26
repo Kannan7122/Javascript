@@ -1,0 +1,31 @@
+.container {
+    margin-left: 38%;
+    margin-top: 13%;
+}
+
+input {
+    border: 2px solid black;
+    width: 300px;
+    height: 40px;
+    font-size: 30px;
+}
+
+table, tr, td {
+    border: 2px groove black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: aquamarine;
+    align-items: center;
+    width: 60px;
+    height: 40px;
+    font-size: medium;
+    color: black;
+}
+
+button.b1 {
+    width: 140px;
+}
